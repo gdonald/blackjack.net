@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/Blackjack/Blackjack.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Blackjack.Tests/Blackjack.Tests.csproj" />
+  </Folder>
 </Solution>
